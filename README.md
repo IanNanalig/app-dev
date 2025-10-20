@@ -1,4 +1,4 @@
-** #My favorite movie: Tarot(2024)**
+** # My favorite movie: Tarot(2024)**
 
 <img width="250" height="313" alt="image" src="https://github.com/user-attachments/assets/5d033ad5-2cb7-4ce5-968f-1247f079dc9f" />
 
